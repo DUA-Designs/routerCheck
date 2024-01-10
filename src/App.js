@@ -13,19 +13,19 @@ export default function App(){
             <nav>
                 <ul>
                     <li>
-                    <Link to={"/"}>Main Page</Link>
+                    <Link to={"/routerCheck/"}>Main Page</Link>
 
                 </li>
                 <li>
-                    <Link to={"/basket"}>Basket Page</Link>
+                    <Link to={"/routerCheck/basket"}>Basket Page</Link>
 
                 </li>
                 </ul>
             </nav>
         </div>
         <Routes>
-            <Route element={<MainPage/>} path='/'></Route>
-            <Route element={<BasketPage/>} path='/basket'></Route>
+            <Route element={<MainPage/>} path='/routerCheck/'></Route>
+            <Route element={<BasketPage/>} path='/routerCheck/basket'></Route>
         </Routes>
      </Router>
     </Provider>);
