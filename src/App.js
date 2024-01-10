@@ -13,7 +13,7 @@ export default function App(){
             <nav>
                 <ul>
                     <li>
-                    <Link to={"/routerCheck"}>Main Page</Link>
+                    <Link to={"/routerCheck/"}>Main Page</Link>
 
                 </li>
                 <li>
