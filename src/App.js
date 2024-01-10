@@ -13,11 +13,11 @@ export default function App(){
             <nav>
                 <ul>
                     <li>
-                    <Link to={"/routerCheck/"}>Main Page</Link>
+                    <Link to={"/"}>Main Page</Link>
 
                 </li>
                 <li>
-                    <Link to={"/routerCheck/basket"}>Basket Page</Link>
+                    <Link to={"/basket"}>Basket Page</Link>
 
                 </li>
                 </ul>
