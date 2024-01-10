@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/routerCheck/static/js/main.bc3bc768.js",
+    "main.js": "/routerCheck/static/js/main.f76c6978.js",
     "index.html": "/routerCheck/index.html",
-    "main.bc3bc768.js.map": "/routerCheck/static/js/main.bc3bc768.js.map"
+    "main.f76c6978.js.map": "/routerCheck/static/js/main.f76c6978.js.map"
   },
   "entrypoints": [
-    "static/js/main.bc3bc768.js"
+    "static/js/main.f76c6978.js"
   ]
 }
